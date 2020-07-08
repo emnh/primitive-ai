@@ -1,0 +1,8 @@
+{
+  "name": "js-5rrutw",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pixi.js": "^5.3.0"
+  }
+}
